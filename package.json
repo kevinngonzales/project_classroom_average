@@ -1,0 +1,13 @@
+{
+  "name": "project_classroom_average",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Kevinn Gonzales",
+  "license": "ISC"
+}

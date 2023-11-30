@@ -1,0 +1,17 @@
+html {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; 
+    background-color: aliceblue;
+}
+
+tr:hover {
+    background-color: #fff9a8;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+}

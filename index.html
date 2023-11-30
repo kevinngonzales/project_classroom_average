@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script type="module" src="main.js"></script>
+    <script type="module" src="calculateClassroomAverage.js"></script>
+    <script type="module" src="studentData.js"></script>
+    <script type="module" src="studentTable.js"></script>
+
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<center> 
+<h1> Classroom Average </h1> 
+</center>
+
+<body>
+    
+    <table id="student-table">
+        <thead>
+        <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th id=>Average Grade</th>
+        </tr>
+        </thead>
+        <tbody></tbody>
+        </table>
+        
+        <center>
+        <p></p>
+        <span> Classroom Average Grade: </span> <span id="classroomAverage">  </span>
+        <p></p>
+        <button id="addStudent"> Add Student </button> 
+        </center>
+</body>
+</html>
