@@ -13,7 +13,7 @@ Before you begin, make sure you have Node.js installed on your computer. If not,
 
 3. Open with VS Code
 
-4. Navigate to root folder of project
+4. Navigate to root folder of project in terminal
 
 5. Run `npm install http-server -S` in terminal
 
